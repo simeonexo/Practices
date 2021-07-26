@@ -1,2 +1,2 @@
 # Practices
-Coding practices
+Rust coding practices

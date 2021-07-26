@@ -1,2 +1,2 @@
-# study
-study materials
+# Practices
+Coding practices
